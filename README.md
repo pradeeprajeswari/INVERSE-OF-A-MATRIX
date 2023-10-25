@@ -12,6 +12,7 @@ Initialze a variable 'A' and make it a array using the np module
 ### Step 3: 
 Now inverse the A in variabe inverse using linalg.inv(A)
 ### Step 4: 
+Print the value of inverse 
 
 ## Program:
 ```
